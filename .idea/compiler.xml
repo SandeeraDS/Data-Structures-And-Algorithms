@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TreeTraversal" />
+        <module name="Hashtable" />
+        <module name="BubbleSort" />
+        <module name="LinkedList" />
+        <module name="Stack" />
+        <module name="QuickSort" />
+        <module name="DoublyLinkedList" />
+        <module name="Graphs" />
+        <module name="SelectionSort" />
+        <module name="InsertionSort" />
+        <module name="MergeSort" />
+        <module name="Queue" />
+        <module name="BinarySearchTree" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BinarySearchTree" target="11" />
+      <module name="BubbleSort" target="11" />
+      <module name="DoublyLinkedList" target="11" />
+      <module name="Graphs" target="11" />
+      <module name="Hashtable" target="11" />
+      <module name="InsertionSort" target="11" />
+      <module name="LinkedList" target="11" />
+      <module name="MergeSort" target="11" />
+      <module name="Queue" target="11" />
+      <module name="QuickSort" target="11" />
+      <module name="SelectionSort" target="11" />
+      <module name="Stack" target="11" />
+      <module name="TreeTraversal" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Queue/pom.xml" />
+        <option value="$PROJECT_DIR$/Stack/pom.xml" />
+        <option value="$PROJECT_DIR$/Graphs/pom.xml" />
+        <option value="$PROJECT_DIR$/Hashtable/pom.xml" />
+        <option value="$PROJECT_DIR$/Basic Sort/BubbleSort/pom.xml" />
+        <option value="$PROJECT_DIR$/Basic Sort/InsertionSort/pom.xml" />
+        <option value="$PROJECT_DIR$/Basic Sort/SelectionSort/pom.xml" />
+        <option value="$PROJECT_DIR$/LinkedList/pom.xml" />
+        <option value="$PROJECT_DIR$/Advance Sort/MergeSort/pom.xml" />
+        <option value="$PROJECT_DIR$/Advance Sort/QuickSort/pom.xml" />
+        <option value="$PROJECT_DIR$/TreeTraversal/pom.xml" />
+        <option value="$PROJECT_DIR$/BinarySearchTree/pom.xml" />
+        <option value="$PROJECT_DIR$/DoublyLinkedList/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Sort/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/Basic Sort/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data Structures And Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Data Structures And Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" filepath="$PROJECT_DIR$/DoublyLinkedList/DoublyLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashtable/Hashtable.iml" filepath="$PROJECT_DIR$/Hashtable/Hashtable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Sort/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/Basic Sort/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance Sort/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/Advance Sort/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue/Queue.iml" filepath="$PROJECT_DIR$/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advance Sort/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/Advance Sort/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Sort/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/Basic Sort/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeTraversal/TreeTraversal.iml" filepath="$PROJECT_DIR$/TreeTraversal/TreeTraversal.iml" />
+    </modules>
+  </component>
+</project>

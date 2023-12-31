@@ -15,6 +15,9 @@ public class Main {
         bst.insert(27);
         bst.insert(52);
         bst.insert(82);
+        bst.insert(16);
+        bst.insert(29);
+        bst.insert(80);
 
         System.out.println("BFS -> "+bst.BFS());
         System.out.println("DFS Pre Order- > "+bst.DFSPreOrder());
